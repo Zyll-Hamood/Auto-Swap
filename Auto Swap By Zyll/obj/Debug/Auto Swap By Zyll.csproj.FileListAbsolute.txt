@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\bin\Debug\Auto Swap By Zyll.exe.config
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\bin\Debug\Auto Swap By Zyll.exe
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\bin\Debug\Auto Swap By Zyll.pdb
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\obj\Debug\Auto Swap By Zyll.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\obj\Debug\Auto Swap By Zyll.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\obj\Debug\Auto Swap By Zyll.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\obj\Debug\Auto Swap By Zyll.exe
+C:\Users\HP\source\repos\Auto Swap By Zyll\Auto Swap By Zyll\obj\Debug\Auto Swap By Zyll.pdb
